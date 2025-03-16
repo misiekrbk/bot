@@ -1,0 +1,16 @@
+# Środowisko
+venv/
+.env
+
+# Pliki systemowe
+*.log
+*.pyc
+__pycache__/
+
+# IDE
+.idea/
+.vscode/
+
+# Dane
+*.csv
+*.json
